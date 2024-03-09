@@ -1,0 +1,362 @@
+Study: Braun__Kidney__PD-(L) 
+OS Results: 
+  Outcome  Gene                 Study        Coef         SE   N      Pval Cancer_type  Treatment       FDR
+1      OS CXCL9 Braun__Kidney__PD-(L) 0.097833250 0.10200411 181 0.3375029      Kidney PD-1/PD-L1 0.9577282
+2      OS ERBB2 Braun__Kidney__PD-(L) 0.013445037 0.10077697 181 0.8938661      Kidney PD-1/PD-L1 0.9577282
+3      OS  EGFR Braun__Kidney__PD-(L) 0.005110415 0.09641456 181 0.9577282      Kidney PD-1/PD-L1 0.9577282
+PFS Results: 
+  Outcome  Gene                 Study       Coef         SE   N       Pval Cancer_type  Treatment       FDR
+1     PFS CXCL9 Braun__Kidney__PD-(L) 0.01055342 0.07696482 181 0.89093591      Kidney PD-1/PD-L1 0.8909359
+2     PFS ERBB2 Braun__Kidney__PD-(L) 0.05205343 0.08564301 181 0.54332319      Kidney PD-1/PD-L1 0.8149848
+3     PFS  EGFR Braun__Kidney__PD-(L) 0.15441646 0.08599352 181 0.07254615      Kidney PD-1/PD-L1 0.2176384
+Response Results: 
+  Outcome  Gene                 Study  Coef    SE   N      Pval Cancer_type  Treatment       FDR
+1 R vs NR CXCL9 Braun__Kidney__PD-(L) 0.131 0.199 142 0.5111306      Kidney PD-1/PD-L1 0.6327594
+2 R vs NR ERBB2 Braun__Kidney__PD-(L) 0.212 0.194 142 0.2736088      Kidney PD-1/PD-L1 0.6327594
+3 R vs NR  EGFR Braun__Kidney__PD-(L) 0.094 0.197 142 0.6327594      Kidney PD-1/PD-L1 0.6327594
+
+Study: Gide__Melanoma__PD-(L) 
+OS Results: 
+  Outcome  Gene                  Study       Coef        SE  N        Pval Cancer_type  Treatment         FDR
+1      OS CXCL9 Gide__Melanoma__PD-(L) -0.5351992 0.1665942 41 0.001315433    Melanoma PD-1/PD-L1 0.003946299
+2      OS ERBB2 Gide__Melanoma__PD-(L) -0.1150859 0.2135199 41 0.589891261    Melanoma PD-1/PD-L1 0.632560178
+3      OS  EGFR Gide__Melanoma__PD-(L)  0.1055210 0.2206969 41 0.632560178    Melanoma PD-1/PD-L1 0.632560178
+PFS Results: 
+  Outcome  Gene                  Study        Coef        SE  N        Pval Cancer_type  Treatment        FDR
+1     PFS CXCL9 Gide__Melanoma__PD-(L) -0.44051575 0.1595794 41 0.005771636    Melanoma PD-1/PD-L1 0.01731491
+2     PFS ERBB2 Gide__Melanoma__PD-(L)  0.07410974 0.1936853 41 0.701994383    Melanoma PD-1/PD-L1 0.70199438
+3     PFS  EGFR Gide__Melanoma__PD-(L)  0.14791977 0.2041828 41 0.468790797    Melanoma PD-1/PD-L1 0.70199438
+Response Results: 
+  Outcome  Gene                  Study   Coef    SE  N       Pval Cancer_type  Treatment         FDR
+1 R vs NR CXCL9 Gide__Melanoma__PD-(L) -1.817 0.610 38 0.00290385    Melanoma PD-1/PD-L1 0.008711551
+2 R vs NR ERBB2 Gide__Melanoma__PD-(L)  0.129 0.319 38 0.68659911    Melanoma PD-1/PD-L1 0.686599109
+3 R vs NR  EGFR Gide__Melanoma__PD-(L)  0.315 0.351 38 0.36913907    Melanoma PD-1/PD-L1 0.553708605
+
+Study: Hugo__Melanoma__PD-(L) 
+OS Results: 
+  Outcome  Gene                  Study       Coef        SE  N      Pval Cancer_type  Treatment       FDR
+1      OS CXCL9 Hugo__Melanoma__PD-(L)  0.1597286 0.3090491 26 0.6052685    Melanoma PD-1/PD-L1 0.6052685
+2      OS ERBB2 Hugo__Melanoma__PD-(L) -0.3914964 0.3275521 26 0.2320016    Melanoma PD-1/PD-L1 0.3480024
+3      OS  EGFR Hugo__Melanoma__PD-(L)  0.5185931 0.3377836 26 0.1247145    Melanoma PD-1/PD-L1 0.3480024
+PFS Results: 
+  Outcome Gene                  Study Coef SE  N Pval Cancer_type Treatment FDR
+1     PFS   NA Hugo__Melanoma__PD-(L)   NA NA NA   NA          NA        NA  NA
+Response Results: 
+  Outcome  Gene                  Study   Coef    SE  N      Pval Cancer_type  Treatment       FDR
+1 R vs NR CXCL9 Hugo__Melanoma__PD-(L)  0.027 0.393 27 0.9456517    Melanoma PD-1/PD-L1 0.9456517
+2 R vs NR ERBB2 Hugo__Melanoma__PD-(L) -0.540 0.424 27 0.2031464    Melanoma PD-1/PD-L1 0.3047196
+3 R vs NR  EGFR Hugo__Melanoma__PD-(L)  0.692 0.456 27 0.1291519    Melanoma PD-1/PD-L1 0.3047196
+
+Study: Hwang__Lung__PD-(L) 
+OS Results: 
+  Outcome  Gene               Study        Coef        SE  N      Pval Cancer_type  Treatment       FDR
+1      OS CXCL9 Hwang__Lung__PD-(L) -0.33808305 0.2715288 21 0.2130916        Lung PD-1/PD-L1 0.4261832
+2      OS  EGFR Hwang__Lung__PD-(L) -0.07659118 0.2636940 21 0.7714684        Lung PD-1/PD-L1 0.7714684
+PFS Results: 
+  Outcome  Gene               Study        Coef        SE  N       Pval Cancer_type  Treatment       FDR
+1     PFS CXCL9 Hwang__Lung__PD-(L) -0.49115500 0.2536530 21 0.05282775        Lung PD-1/PD-L1 0.1056555
+2     PFS  EGFR Hwang__Lung__PD-(L) -0.04055417 0.2543745 21 0.87333243        Lung PD-1/PD-L1 0.8733324
+Response Results: 
+  Outcome  Gene               Study   Coef    SE  N      Pval Cancer_type  Treatment       FDR
+1 R vs NR CXCL9 Hwang__Lung__PD-(L) -1.067 0.978 16 0.2755010        Lung PD-1/PD-L1 0.5510020
+2 R vs NR  EGFR Hwang__Lung__PD-(L) -0.458 0.875 16 0.6007696        Lung PD-1/PD-L1 0.6007696
+
+Study: Jerby_Arnon__Melanoma__PD-(L) 
+OS Results: 
+  Outcome Gene                         Study Coef SE  N Pval Cancer_type Treatment FDR
+1      OS   NA Jerby_Arnon__Melanoma__PD-(L)   NA NA NA   NA          NA        NA  NA
+PFS Results: 
+  Outcome Gene                         Study Coef SE  N Pval Cancer_type Treatment FDR
+1     PFS   NA Jerby_Arnon__Melanoma__PD-(L)   NA NA NA   NA          NA        NA  NA
+Response Results: 
+  Outcome Gene                         Study Coef SE  N Pval Cancer_type Treatment FDR
+1 R vs NR   NA Jerby_Arnon__Melanoma__PD-(L)   NA NA NA   NA          NA        NA  NA
+
+Study: Jung__Lung__PD-(L) 
+OS Results: 
+  Outcome Gene              Study Coef SE  N Pval Cancer_type Treatment FDR
+1      OS   NA Jung__Lung__PD-(L)   NA NA NA   NA          NA        NA  NA
+PFS Results: 
+  Outcome  Gene              Study       Coef        SE  N      Pval Cancer_type  Treatment       FDR
+1     PFS CXCL9 Jung__Lung__PD-(L) -0.3349348 0.2047851 27 0.1019353        Lung PD-1/PD-L1 0.1939735
+2     PFS ERBB2 Jung__Lung__PD-(L)  0.2910960 0.2241073 27 0.1939735        Lung PD-1/PD-L1 0.1939735
+3     PFS  EGFR Jung__Lung__PD-(L)  0.3069334 0.2232987 27 0.1692735        Lung PD-1/PD-L1 0.1939735
+Response Results: 
+  Outcome  Gene              Study   Coef    SE  N       Pval Cancer_type  Treatment       FDR
+1 R vs NR CXCL9 Jung__Lung__PD-(L) -1.343 0.696 27 0.05377463        Lung PD-1/PD-L1 0.1502831
+2 R vs NR ERBB2 Jung__Lung__PD-(L)  0.698 0.485 27 0.15028310        Lung PD-1/PD-L1 0.1502831
+3 R vs NR  EGFR Jung__Lung__PD-(L)  0.772 0.512 27 0.13143082        Lung PD-1/PD-L1 0.1502831
+
+Study: Kim__Gastric__PD-(L) 
+OS Results: 
+  Outcome Gene                Study Coef SE  N Pval Cancer_type Treatment FDR
+1      OS   NA Kim__Gastric__PD-(L)   NA NA NA   NA          NA        NA  NA
+PFS Results: 
+  Outcome Gene                Study Coef SE  N Pval Cancer_type Treatment FDR
+1     PFS   NA Kim__Gastric__PD-(L)   NA NA NA   NA          NA        NA  NA
+Response Results: 
+  Outcome  Gene                Study   Coef    SE  N       Pval Cancer_type  Treatment       FDR
+1 R vs NR CXCL9 Kim__Gastric__PD-(L) -0.952 0.454 31 0.03600514     Gastric PD-1/PD-L1 0.1080154
+2 R vs NR ERBB2 Kim__Gastric__PD-(L)  0.614 0.439 31 0.16228490     Gastric PD-1/PD-L1 0.2073997
+3 R vs NR  EGFR Kim__Gastric__PD-(L)  0.519 0.411 31 0.20739971     Gastric PD-1/PD-L1 0.2073997
+
+Study: Limagne1__Lung__PD-(L) 
+OS Results: 
+  Outcome Gene                  Study Coef SE  N Pval Cancer_type Treatment FDR
+1      OS   NA Limagne1__Lung__PD-(L)   NA NA NA   NA          NA        NA  NA
+PFS Results: 
+  Outcome  Gene                  Study       Coef        SE  N       Pval Cancer_type  Treatment       FDR
+1     PFS CXCL9 Limagne1__Lung__PD-(L) -0.1265968 0.1360291 70 0.35202981        Lung PD-1/PD-L1 0.3520298
+2     PFS ERBB2 Limagne1__Lung__PD-(L) -0.2437254 0.1288526 70 0.05855686        Lung PD-1/PD-L1 0.1756706
+3     PFS  EGFR Limagne1__Lung__PD-(L) -0.1300048 0.1320582 70 0.32489373        Lung PD-1/PD-L1 0.3520298
+Response Results: 
+  Outcome Gene                  Study Coef SE  N Pval Cancer_type Treatment FDR
+1 R vs NR   NA Limagne1__Lung__PD-(L)   NA NA NA   NA          NA        NA  NA
+
+Study: Limagne2__Lung__PD-(L) 
+OS Results: 
+  Outcome Gene                  Study Coef SE  N Pval Cancer_type Treatment FDR
+1      OS   NA Limagne2__Lung__PD-(L)   NA NA NA   NA          NA        NA  NA
+PFS Results: 
+  Outcome  Gene                  Study        Coef        SE  N      Pval Cancer_type  Treatment       FDR
+1     PFS CXCL9 Limagne2__Lung__PD-(L) -0.24794349 0.2338272 26 0.2889761        Lung PD-1/PD-L1 0.4334642
+2     PFS ERBB2 Limagne2__Lung__PD-(L)  0.03394605 0.1942441 26 0.8612684        Lung PD-1/PD-L1 0.8612684
+3     PFS  EGFR Limagne2__Lung__PD-(L) -0.37745796 0.2461543 26 0.1251724        Lung PD-1/PD-L1 0.3755171
+Response Results: 
+  Outcome  Gene                  Study   Coef    SE  N       Pval Cancer_type  Treatment       FDR
+1 R vs NR CXCL9 Limagne2__Lung__PD-(L) -0.358 0.520 22 0.49080772        Lung PD-1/PD-L1 0.5538294
+2 R vs NR ERBB2 Limagne2__Lung__PD-(L)  0.340 0.575 22 0.55382942        Lung PD-1/PD-L1 0.5538294
+3 R vs NR  EGFR Limagne2__Lung__PD-(L) -1.078 0.610 22 0.07741105        Lung PD-1/PD-L1 0.2322332
+
+Study: Liu__Melanoma__IO+comb 
+OS Results: 
+  Outcome  Gene                  Study        Coef        SE  N       Pval Cancer_type Treatment       FDR
+1      OS CXCL9 Liu__Melanoma__IO+comb -0.34894881 0.1892466 47 0.06520003    Melanoma  IO+combo 0.1956001
+2      OS ERBB2 Liu__Melanoma__IO+comb  0.04847075 0.2021428 47 0.81049715    Melanoma  IO+combo 0.8104972
+3      OS  EGFR Liu__Melanoma__IO+comb -0.26016185 0.1975088 47 0.18776616    Melanoma  IO+combo 0.2816492
+PFS Results: 
+  Outcome  Gene                  Study        Coef        SE  N        Pval Cancer_type Treatment        FDR
+1     PFS CXCL9 Liu__Melanoma__IO+comb -0.46151986 0.1649617 47 0.005146152    Melanoma  IO+combo 0.01543846
+2     PFS ERBB2 Liu__Melanoma__IO+comb  0.19180656 0.2020877 47 0.342556913    Melanoma  IO+combo 0.51383537
+3     PFS  EGFR Liu__Melanoma__IO+comb -0.09748503 0.1869553 47 0.602063831    Melanoma  IO+combo 0.60206383
+Response Results: 
+  Outcome  Gene                  Study   Coef    SE  N       Pval Cancer_type Treatment       FDR
+1 R vs NR CXCL9 Liu__Melanoma__IO+comb -0.795 0.392 43 0.04237403    Melanoma  IO+combo 0.1271221
+2 R vs NR ERBB2 Liu__Melanoma__IO+comb  0.184 0.310 43 0.55264130    Melanoma  IO+combo 0.5526413
+3 R vs NR  EGFR Liu__Melanoma__IO+comb -0.276 0.311 43 0.37547225    Melanoma  IO+combo 0.5526413
+
+Study: Liu__Melanoma__PD-(L) 
+OS Results: 
+  Outcome  Gene                 Study        Coef        SE  N      Pval Cancer_type  Treatment       FDR
+1      OS CXCL9 Liu__Melanoma__PD-(L) -0.09864513 0.1679199 74 0.5568992    Melanoma PD-1/PD-L1 0.8353488
+2      OS ERBB2 Liu__Melanoma__PD-(L)  0.02808516 0.1783016 74 0.8748391    Melanoma PD-1/PD-L1 0.8748391
+3      OS  EGFR Liu__Melanoma__PD-(L) -0.11397024 0.1636351 74 0.4861218    Melanoma PD-1/PD-L1 0.8353488
+PFS Results: 
+  Outcome  Gene                 Study         Coef        SE  N      Pval Cancer_type  Treatment       FDR
+1     PFS CXCL9 Liu__Melanoma__PD-(L) -0.003141455 0.1372804 74 0.9817432    Melanoma PD-1/PD-L1 0.9817432
+2     PFS ERBB2 Liu__Melanoma__PD-(L) -0.021525354 0.1407171 74 0.8784227    Melanoma PD-1/PD-L1 0.9817432
+3     PFS  EGFR Liu__Melanoma__PD-(L) -0.038323512 0.1427592 74 0.7883540    Melanoma PD-1/PD-L1 0.9817432
+Response Results: 
+  Outcome Gene                 Study Coef SE  N Pval Cancer_type Treatment FDR
+1 R vs NR   NA Liu__Melanoma__PD-(L)   NA NA NA   NA          NA        NA  NA
+
+Study: Mariathasan__Bladder__PD-(L) 
+OS Results: 
+  Outcome  Gene                        Study        Coef         SE   N         Pval Cancer_type  Treatment          FDR
+1      OS CXCL9 Mariathasan__Bladder__PD-(L) -0.34738879 0.08321780 195 0.0000298703     Bladder PD-1/PD-L1 8.961089e-05
+2      OS ERBB2 Mariathasan__Bladder__PD-(L) -0.05876446 0.08779969 195 0.5033032174     Bladder PD-1/PD-L1 5.033032e-01
+3      OS  EGFR Mariathasan__Bladder__PD-(L)  0.18574923 0.08390560 195 0.0268433557     Bladder PD-1/PD-L1 4.026503e-02
+PFS Results: 
+  Outcome Gene                        Study Coef SE  N Pval Cancer_type Treatment FDR
+1     PFS   NA Mariathasan__Bladder__PD-(L)   NA NA NA   NA          NA        NA  NA
+Response Results: 
+  Outcome  Gene                        Study   Coef    SE   N      Pval Cancer_type  Treatment       FDR
+1 R vs NR ERBB2 Mariathasan__Bladder__PD-(L) -0.290 0.197 133 0.1420329     Bladder PD-1/PD-L1 0.1575468
+2 R vs NR  EGFR Mariathasan__Bladder__PD-(L)  0.285 0.201 133 0.1575468     Bladder PD-1/PD-L1 0.1575468
+
+Study: Mariathasan__Kidney__PD-(L) 
+OS Results: 
+  Outcome  Gene                       Study       Coef        SE  N      Pval Cancer_type  Treatment       FDR
+1      OS CXCL9 Mariathasan__Kidney__PD-(L) -0.1281047 0.1452824 67 0.3779048      Kidney PD-1/PD-L1 0.5773488
+2      OS ERBB2 Mariathasan__Kidney__PD-(L) -0.0920695 0.1652178 67 0.5773488      Kidney PD-1/PD-L1 0.5773488
+3      OS  EGFR Mariathasan__Kidney__PD-(L) -0.1008709 0.1418151 67 0.4769078      Kidney PD-1/PD-L1 0.5773488
+PFS Results: 
+  Outcome Gene                       Study Coef SE  N Pval Cancer_type Treatment FDR
+1     PFS   NA Mariathasan__Kidney__PD-(L)   NA NA NA   NA          NA        NA  NA
+Response Results: 
+  Outcome  Gene                       Study   Coef    SE  N      Pval Cancer_type  Treatment       FDR
+1 R vs NR CXCL9 Mariathasan__Kidney__PD-(L) -0.347 0.409 46 0.3959722      Kidney PD-1/PD-L1 0.3959722
+2 R vs NR ERBB2 Mariathasan__Kidney__PD-(L) -0.323 0.333 46 0.3309718      Kidney PD-1/PD-L1 0.3959722
+3 R vs NR  EGFR Mariathasan__Kidney__PD-(L)  0.637 0.437 46 0.1449296      Kidney PD-1/PD-L1 0.3959722
+
+Study: Mariathasan__Ureteral__PD-(L) 
+OS Results: 
+  Outcome  Gene                         Study       Coef        SE  N      Pval Cancer_type  Treatment       FDR
+1      OS CXCL9 Mariathasan__Ureteral__PD-(L) 0.09155581 0.2689137 26 0.7335061    Ureteral PD-1/PD-L1 0.7335061
+2      OS ERBB2 Mariathasan__Ureteral__PD-(L) 0.09922980 0.2241162 26 0.6579389    Ureteral PD-1/PD-L1 0.7335061
+3      OS  EGFR Mariathasan__Ureteral__PD-(L) 0.09204465 0.2328739 26 0.6926545    Ureteral PD-1/PD-L1 0.7335061
+PFS Results: 
+  Outcome Gene                         Study Coef SE  N Pval Cancer_type Treatment FDR
+1     PFS   NA Mariathasan__Ureteral__PD-(L)   NA NA NA   NA          NA        NA  NA
+Response Results: 
+  Outcome  Gene                         Study  Coef    SE  N      Pval Cancer_type  Treatment      FDR
+1 R vs NR CXCL9 Mariathasan__Ureteral__PD-(L) 0.165 0.486 18 0.7346090    Ureteral PD-1/PD-L1 0.734609
+2 R vs NR ERBB2 Mariathasan__Ureteral__PD-(L) 0.524 0.567 18 0.3550928    Ureteral PD-1/PD-L1 0.734609
+3 R vs NR  EGFR Mariathasan__Ureteral__PD-(L) 0.240 0.473 18 0.6119744    Ureteral PD-1/PD-L1 0.734609
+
+Study: Miao1__Kidney__PD-(L) 
+OS Results: 
+  Outcome  Gene                 Study        Coef        SE  N      Pval Cancer_type  Treatment       FDR
+1      OS CXCL9 Miao1__Kidney__PD-(L) -0.07729599 0.2187351 33 0.7238058      Kidney PD-1/PD-L1 0.7238058
+2      OS ERBB2 Miao1__Kidney__PD-(L)  0.17616439 0.2810108 33 0.5307278      Kidney PD-1/PD-L1 0.7238058
+3      OS  EGFR Miao1__Kidney__PD-(L) -0.08186670 0.2151149 33 0.7035209      Kidney PD-1/PD-L1 0.7238058
+PFS Results: 
+  Outcome  Gene                 Study        Coef        SE  N      Pval Cancer_type  Treatment       FDR
+1     PFS CXCL9 Miao1__Kidney__PD-(L) -0.22627623 0.4071336 33 0.5783621      Kidney PD-1/PD-L1 0.8675431
+2     PFS ERBB2 Miao1__Kidney__PD-(L)  0.08958788 0.5996941 33 0.8812465      Kidney PD-1/PD-L1 0.8812465
+3     PFS  EGFR Miao1__Kidney__PD-(L)  0.48487679 0.5300833 33 0.3603396      Kidney PD-1/PD-L1 0.8675431
+Response Results: 
+  Outcome  Gene                 Study   Coef    SE  N      Pval Cancer_type  Treatment       FDR
+1 R vs NR CXCL9 Miao1__Kidney__PD-(L)  0.452 0.525 28 0.3884767      Kidney PD-1/PD-L1 0.5827151
+2 R vs NR ERBB2 Miao1__Kidney__PD-(L)  0.212 0.400 28 0.5964256      Kidney PD-1/PD-L1 0.5964256
+3 R vs NR  EGFR Miao1__Kidney__PD-(L) -0.418 0.439 28 0.3404273      Kidney PD-1/PD-L1 0.5827151
+
+Study: Nathanson__Melanoma__CTLA 
+OS Results: 
+  Outcome  Gene                     Study       Coef        SE  N       Pval Cancer_type Treatment       FDR
+1      OS CXCL9 Nathanson__Melanoma__CTLA -0.5400840 0.2552747 24 0.03437052    Melanoma     CTLA4 0.1031116
+2      OS ERBB2 Nathanson__Melanoma__CTLA -0.3412069 0.2568604 24 0.18405432    Melanoma     CTLA4 0.2760815
+3      OS  EGFR Nathanson__Melanoma__CTLA -0.1603257 0.2692792 24 0.55158398    Melanoma     CTLA4 0.5515840
+PFS Results: 
+  Outcome Gene                     Study Coef SE  N Pval Cancer_type Treatment FDR
+1     PFS   NA Nathanson__Melanoma__CTLA   NA NA NA   NA          NA        NA  NA
+Response Results: 
+  Outcome  Gene                     Study   Coef    SE  N       Pval Cancer_type Treatment       FDR
+1 R vs NR CXCL9 Nathanson__Melanoma__CTLA -0.292 0.436 24 0.50402069    Melanoma     CTLA4 0.7173041
+2 R vs NR ERBB2 Nathanson__Melanoma__CTLA -1.017 0.558 24 0.06849121    Melanoma     CTLA4 0.2054736
+3 R vs NR  EGFR Nathanson__Melanoma__CTLA -0.154 0.424 24 0.71730411    Melanoma     CTLA4 0.7173041
+
+Study: Padron__Pancreas__PD-(L) 
+OS Results: 
+  Outcome  Gene                    Study         Coef        SE  N      Pval Cancer_type  Treatment       FDR
+1      OS CXCL9 Padron__Pancreas__PD-(L) -0.132830265 0.1958716 45 0.4976768    Pancreas PD-1/PD-L1 0.7465152
+2      OS ERBB2 Padron__Pancreas__PD-(L)  0.004694386 0.1591960 45 0.9764753    Pancreas PD-1/PD-L1 0.9764753
+3      OS  EGFR Padron__Pancreas__PD-(L)  0.183575311 0.1933200 45 0.3423190    Pancreas PD-1/PD-L1 0.7465152
+PFS Results: 
+  Outcome  Gene                    Study       Coef        SE  N       Pval Cancer_type  Treatment       FDR
+1     PFS CXCL9 Padron__Pancreas__PD-(L) -0.3427619 0.1684519 45 0.04187339    Pancreas PD-1/PD-L1 0.1256202
+2     PFS ERBB2 Padron__Pancreas__PD-(L)  0.1041416 0.1656209 45 0.52948302    Pancreas PD-1/PD-L1 0.5294830
+3     PFS  EGFR Padron__Pancreas__PD-(L)  0.1448462 0.1694067 45 0.39253975    Pancreas PD-1/PD-L1 0.5294830
+Response Results: 
+  Outcome  Gene                    Study   Coef    SE  N      Pval Cancer_type  Treatment       FDR
+1 R vs NR CXCL9 Padron__Pancreas__PD-(L) -1.497 0.992 23 0.1314552    Pancreas PD-1/PD-L1 0.3943657
+2 R vs NR ERBB2 Padron__Pancreas__PD-(L)  0.649 0.597 23 0.2772785    Pancreas PD-1/PD-L1 0.4159178
+3 R vs NR  EGFR Padron__Pancreas__PD-(L)  0.114 0.711 23 0.8723034    Pancreas PD-1/PD-L1 0.8723034
+
+Study: Puch__Melanoma__PD-(L) 
+OS Results: 
+  Outcome Gene                  Study Coef SE  N Pval Cancer_type Treatment FDR
+1      OS   NA Puch__Melanoma__PD-(L)   NA NA NA   NA          NA        NA  NA
+PFS Results: 
+  Outcome Gene                  Study Coef SE  N Pval Cancer_type Treatment FDR
+1     PFS   NA Puch__Melanoma__PD-(L)   NA NA NA   NA          NA        NA  NA
+Response Results: 
+  Outcome  Gene                  Study  Coef    SE  N      Pval Cancer_type  Treatment       FDR
+1 R vs NR ERBB2 Puch__Melanoma__PD-(L) 0.332 0.311 49 0.2860976    Melanoma PD-1/PD-L1 0.5721952
+2 R vs NR  EGFR Puch__Melanoma__PD-(L) 0.135 0.309 49 0.6628500    Melanoma PD-1/PD-L1 0.6628500
+
+Study: Riaz__Melanoma__IO+comb 
+OS Results: 
+  Outcome  Gene                   Study       Coef        SE  N      Pval Cancer_type Treatment       FDR
+1      OS CXCL9 Riaz__Melanoma__IO+comb -0.2044797 0.2926305 23 0.4846995    Melanoma  IO+combo 0.4846995
+2      OS ERBB2 Riaz__Melanoma__IO+comb  0.3918782 0.3385647 23 0.2470807    Melanoma  IO+combo 0.3706211
+3      OS  EGFR Riaz__Melanoma__IO+comb -0.3673688 0.2944773 23 0.2122038    Melanoma  IO+combo 0.3706211
+PFS Results: 
+  Outcome Gene                   Study Coef SE  N Pval Cancer_type Treatment FDR
+1     PFS   NA Riaz__Melanoma__IO+comb   NA NA NA   NA          NA        NA  NA
+Response Results: 
+  Outcome  Gene                   Study   Coef    SE  N      Pval Cancer_type Treatment      FDR
+1 R vs NR CXCL9 Riaz__Melanoma__IO+comb -2.043 1.402 14 0.1452264    Melanoma  IO+combo 0.184269
+2 R vs NR ERBB2 Riaz__Melanoma__IO+comb  0.724 0.545 14 0.1842690    Melanoma  IO+combo 0.184269
+3 R vs NR  EGFR Riaz__Melanoma__IO+comb -1.056 0.720 14 0.1422919    Melanoma  IO+combo 0.184269
+
+Study: Riaz__Melanoma__PD-(L) 
+OS Results: 
+  Outcome  Gene                  Study        Coef        SE  N       Pval Cancer_type  Treatment       FDR
+1      OS CXCL9 Riaz__Melanoma__PD-(L) -0.60998587 0.2832552 23 0.03128057    Melanoma PD-1/PD-L1 0.0938417
+2      OS ERBB2 Riaz__Melanoma__PD-(L)  0.08234190 0.2583843 23 0.74996918    Melanoma PD-1/PD-L1 0.9605386
+3      OS  EGFR Riaz__Melanoma__PD-(L) -0.01074967 0.2172626 23 0.96053855    Melanoma PD-1/PD-L1 0.9605386
+PFS Results: 
+  Outcome Gene                  Study Coef SE  N Pval Cancer_type Treatment FDR
+1     PFS   NA Riaz__Melanoma__PD-(L)   NA NA NA   NA          NA        NA  NA
+Response Results: 
+  Outcome  Gene                  Study   Coef    SE  N      Pval Cancer_type  Treatment       FDR
+1 R vs NR CXCL9 Riaz__Melanoma__PD-(L) -0.390 0.583 16 0.5042683    Melanoma PD-1/PD-L1 0.6271491
+2 R vs NR ERBB2 Riaz__Melanoma__PD-(L)  0.248 0.510 16 0.6271491    Melanoma PD-1/PD-L1 0.6271491
+3 R vs NR  EGFR Riaz__Melanoma__PD-(L)  0.789 0.603 16 0.1906821    Melanoma PD-1/PD-L1 0.5720464
+
+Study: Roh__Melanoma__CTLA 
+OS Results: 
+  Outcome  Gene               Study      Coef        SE  N      Pval Cancer_type Treatment       FDR
+1      OS CXCL9 Roh__Melanoma__CTLA 0.7005844 0.5263657 16 0.1831942    Melanoma     CTLA4 0.1831942
+PFS Results: 
+  Outcome Gene               Study Coef SE  N Pval Cancer_type Treatment FDR
+1     PFS   NA Roh__Melanoma__CTLA   NA NA NA   NA          NA        NA  NA
+Response Results: 
+  Outcome  Gene               Study  Coef    SE  N      Pval Cancer_type Treatment       FDR
+1 R vs NR CXCL9 Roh__Melanoma__CTLA 0.854 0.708 15 0.2282122    Melanoma     CTLA4 0.2282122
+
+Study: Shiuan__Kidney__PD-(L) 
+OS Results: 
+  Outcome Gene                  Study Coef SE  N Pval Cancer_type Treatment FDR
+1      OS   NA Shiuan__Kidney__PD-(L)   NA NA NA   NA          NA        NA  NA
+PFS Results: 
+  Outcome Gene                  Study Coef SE  N Pval Cancer_type Treatment FDR
+1     PFS   NA Shiuan__Kidney__PD-(L)   NA NA NA   NA          NA        NA  NA
+Response Results: 
+  Outcome  Gene                  Study   Coef    SE  N      Pval Cancer_type  Treatment       FDR
+1 R vs NR CXCL9 Shiuan__Kidney__PD-(L) -0.499 1.070 13 0.6408503      Kidney PD-1/PD-L1 0.6408503
+2 R vs NR ERBB2 Shiuan__Kidney__PD-(L)  0.545 0.693 13 0.4314019      Kidney PD-1/PD-L1 0.6408503
+3 R vs NR  EGFR Shiuan__Kidney__PD-(L)  0.361 0.573 13 0.5286606      Kidney PD-1/PD-L1 0.6408503
+
+Study: Snyder__Ureteral__PD-(L) 
+OS Results: 
+  Outcome  Gene                    Study       Coef        SE  N      Pval Cancer_type  Treatment       FDR
+1      OS CXCL9 Snyder__Ureteral__PD-(L) -0.2149735 0.2174520 25 0.3228579    Ureteral PD-1/PD-L1 0.4842868
+2      OS ERBB2 Snyder__Ureteral__PD-(L) -0.3541162 0.2805998 25 0.2069498    Ureteral PD-1/PD-L1 0.4842868
+3      OS  EGFR Snyder__Ureteral__PD-(L)  0.1604481 0.2947637 25 0.5862158    Ureteral PD-1/PD-L1 0.5862158
+PFS Results: 
+  Outcome  Gene                    Study        Coef        SE  N      Pval Cancer_type  Treatment       FDR
+1     PFS CXCL9 Snyder__Ureteral__PD-(L) -0.06237674 0.2153569 25 0.7720889    Ureteral PD-1/PD-L1 0.7720889
+2     PFS ERBB2 Snyder__Ureteral__PD-(L) -0.34324218 0.2600287 25 0.1868295    Ureteral PD-1/PD-L1 0.5604884
+3     PFS  EGFR Snyder__Ureteral__PD-(L)  0.23393519 0.2874655 25 0.4157680    Ureteral PD-1/PD-L1 0.6236521
+Response Results: 
+  Outcome  Gene                    Study   Coef    SE  N      Pval Cancer_type  Treatment       FDR
+1 R vs NR ERBB2 Snyder__Ureteral__PD-(L) -0.369 0.511 18 0.4706186    Ureteral PD-1/PD-L1 0.4706186
+2 R vs NR  EGFR Snyder__Ureteral__PD-(L)  0.759 0.649 18 0.2424173    Ureteral PD-1/PD-L1 0.4706186
+
+Study: Van_Allen__Melanoma__CTLA 
+OS Results: 
+  Outcome  Gene                     Study        Coef        SE  N       Pval Cancer_type Treatment       FDR
+1      OS CXCL9 Van_Allen__Melanoma__CTLA -0.39808953 0.1813712 42 0.02817163    Melanoma     CTLA4 0.0845149
+2      OS ERBB2 Van_Allen__Melanoma__CTLA  0.09520719 0.2109195 42 0.65170767    Melanoma     CTLA4 0.6517077
+3      OS  EGFR Van_Allen__Melanoma__CTLA -0.15375352 0.2067339 42 0.45704173    Melanoma     CTLA4 0.6517077
+PFS Results: 
+  Outcome  Gene                     Study        Coef        SE  N       Pval Cancer_type Treatment       FDR
+1     PFS CXCL9 Van_Allen__Melanoma__CTLA -0.32184143 0.1928559 42 0.09515339    Melanoma     CTLA4 0.2854602
+2     PFS ERBB2 Van_Allen__Melanoma__CTLA  0.08367101 0.1988280 42 0.67388576    Melanoma     CTLA4 0.6738858
+3     PFS  EGFR Van_Allen__Melanoma__CTLA -0.12683257 0.2033587 42 0.53283195    Melanoma     CTLA4 0.6738858
+Response Results: 
+  Outcome  Gene                     Study  Coef    SE  N      Pval Cancer_type Treatment       FDR
+1 R vs NR ERBB2 Van_Allen__Melanoma__CTLA 0.019 0.374 39 0.9598052    Melanoma     CTLA4 0.9598052
+
+Study: VanDenEnde__Esophageal__PD-(L) 
+OS Results: 
+  Outcome Gene                          Study Coef SE  N Pval Cancer_type Treatment FDR
+1      OS   NA VanDenEnde__Esophageal__PD-(L)   NA NA NA   NA          NA        NA  NA
+PFS Results: 
+  Outcome Gene                          Study Coef SE  N Pval Cancer_type Treatment FDR
+1     PFS   NA VanDenEnde__Esophageal__PD-(L)   NA NA NA   NA          NA        NA  NA
+Response Results: 
+  Outcome Gene                          Study Coef SE  N Pval Cancer_type Treatment FDR
+1 R vs NR   NA VanDenEnde__Esophageal__PD-(L)   NA NA NA   NA          NA        NA  NA
