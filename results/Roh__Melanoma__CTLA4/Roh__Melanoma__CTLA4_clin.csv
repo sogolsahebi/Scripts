@@ -1,0 +1,17 @@
+"","patientid","sex","age","cancer_type","treatment","response","survival_time_pfs","event_occurred_pfs","survival_time_os","event_occurred_os"
+"P_5","P_5","F",47,"Melanoma","CTLA4","R",NA,NA,34.4918032786885,1
+"P_7","P_7","M",64,"Melanoma","CTLA4","NR",NA,NA,38.4918032786885,0
+"P_8","P_8","M",54,"Melanoma","CTLA4","NR",NA,NA,27.5409836065574,0
+"P_9","P_9","M",58,"Melanoma","CTLA4","NR",NA,NA,39.7704918032787,0
+"P_10","P_10","F",54,"Melanoma","CTLA4","R",NA,NA,27.7704918032787,0
+"P_18","P_18","F",66,"Melanoma","CTLA4","NR",NA,NA,17.672131147541,1
+"P_19","P_19","M",55,"Melanoma","CTLA4","NR",NA,NA,20.8524590163934,1
+"P_22","P_22","F",50,"Melanoma","CTLA4","R",NA,NA,20.4262295081967,0
+"P_23","P_23","M",40,"Melanoma","CTLA4","NR",NA,NA,21.9672131147541,0
+"P_25","P_25","F",46,"Melanoma","CTLA4","NR",NA,NA,29.3114754098361,1
+"P_31","P_31","F",71,"Melanoma","CTLA4",NA,NA,NA,58.6885245901639,0
+"P_37","P_37","M",82,"Melanoma","CTLA4","R",NA,NA,18.0655737704918,1
+"P_42","P_42","F",48,"Melanoma","CTLA4","NR",NA,NA,69.2131147540984,0
+"P_43","P_43","M",61,"Melanoma","CTLA4","NR",NA,NA,14.0327868852459,0
+"P_47","P_47","M",72,"Melanoma","CTLA4","NR",NA,NA,35.8032786885246,0
+"P_50","P_50","M",68,"Melanoma","CTLA4","NR",NA,NA,52.9836065573771,0

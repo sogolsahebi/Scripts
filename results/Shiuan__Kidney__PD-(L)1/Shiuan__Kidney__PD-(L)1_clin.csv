@@ -1,0 +1,16 @@
+"","patientid","sex","age","cancer_type","treatment","response","survival_time_pfs","event_occurred_pfs","survival_time_os","event_occurred_os"
+"P5","P5",NA,NA,"Kidney","PD-1/PD-L1","NR",NA,NA,NA,NA
+"P7","P7",NA,NA,"Kidney","PD-1/PD-L1","R",NA,NA,NA,NA
+"P9","P9",NA,NA,"Kidney","PD-1/PD-L1","NR",NA,NA,NA,NA
+"P10","P10",NA,NA,"Kidney","PD-1/PD-L1","NR",NA,NA,NA,NA
+"P16","P16",NA,NA,"Kidney","PD-1/PD-L1","NR",NA,NA,NA,NA
+"P17","P17",NA,NA,"Kidney","PD-1/PD-L1",NA,NA,NA,NA,NA
+"P18","P18",NA,NA,"Kidney","PD-1/PD-L1","R",NA,NA,NA,NA
+"P26","P26",NA,NA,"Kidney","PD-1/PD-L1",NA,NA,NA,NA,NA
+"P28","P28",NA,NA,"Kidney","PD-1/PD-L1","NR",NA,NA,NA,NA
+"P29","P29",NA,NA,"Kidney","PD-1/PD-L1","R",NA,NA,NA,NA
+"P31","P31",NA,NA,"Kidney","PD-1/PD-L1","R",NA,NA,NA,NA
+"P36","P36",NA,NA,"Kidney","PD-1/PD-L1","NR",NA,NA,NA,NA
+"P42","P42",NA,NA,"Kidney","PD-1/PD-L1","R",NA,NA,NA,NA
+"P55","P55",NA,NA,"Kidney","PD-1/PD-L1","NR",NA,NA,NA,NA
+"P61","P61",NA,NA,"Kidney","PD-1/PD-L1","R",NA,NA,NA,NA
